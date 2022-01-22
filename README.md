@@ -2,7 +2,6 @@
 *Note: this was a final project for CSC590 -- Machine Learning.*
 
 ## Project Description
-This project will attempt to predict a song’s genre based off all the variables in the dataset’s rows. The program will run twice. The first run will attempt to predict genres that are very similar; in this case, they are HipHop, Rap, and Underground Rap. The second run will attempt to predict genres that are not so similar; in this case, they are ‘Techno’, ‘Emo’, ‘Rap’.
 
 - **Given a song’s qualities (i.e., danceability, loudness, etc), can a song’s genre be predicted?**
 - **When faced with similar genres, how well will the algorithm classify?**
