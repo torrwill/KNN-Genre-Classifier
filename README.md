@@ -56,6 +56,28 @@ Before performing any machine learning on my dataset, I wanted to understand the
 [Click here to view Figures]https://github.com/torrwill/KNN-Genre-Classifier/tree/main/figures)
 
 ![Figure 1](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig1.png)
+![Figure 2](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig2.png)
+![Figure 3](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig3.png)
+![Figure 4](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig4.png)
+![Figure 5](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig5.png)
+![Figure 6](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig6.png)
+![Figure 7](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig7.png)
+![Figure 8](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig8.png)
+![Figure 9](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig9.png)
+![Figure 10](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig10.png)
+![Figure 11](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig11.png)
+![Figure 12](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig12.png)
+![Figure 13](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig13.png)
+![Figure 14](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig14.png)
+![Figure 15](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig15.png)
+![Figure 16](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig16.png)
+![Figure 17](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig17.png)
+![Figure 18](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig18.png)
+![Figure 19](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig19.png)
+![Figure 20](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig20.png)
+![Figure 21](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig21.png)
+![Figure 22](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig22.png)
+![Figure 23](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig23.png)
 
 ### Accuracy
 The accuracy rates of the KNN model, as explained by *Table 2*, can be described as pretty inaccurate when it comes to classifying genres that are similar such as **‘Hiphop’**, **’Rap’**, and **‘Underground Rap’** because the rates were almost always below *90%*.
