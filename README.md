@@ -53,7 +53,9 @@ When selecting a K-Value, one must choose a K-Value that will be able to maintai
 Before performing any machine learning on my dataset, I wanted to understand the data by performing a genre analysis using seaborn.
 
 #### Data Distribution
-[Click here to view Figures](http://www.github.com/torrwill/KNN-Genre-Classifier/figures)
+[Click here to view Figures]https://github.com/torrwill/KNN-Genre-Classifier/tree/main/figures)
+
+![Figure 1](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig1.png)
 
 ### Accuracy
 The accuracy rates of the KNN model, as explained by *Table 2*, can be described as pretty inaccurate when it comes to classifying genres that are similar such as **‘Hiphop’**, **’Rap’**, and **‘Underground Rap’** because the rates were almost always below *90%*.
