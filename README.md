@@ -55,6 +55,9 @@ Before performing any machine learning on my dataset, I wanted to understand the
 #### Data Distribution
 [Click here to view Figures]https://github.com/torrwill/KNN-Genre-Classifier/tree/main/figures)
 
+<details><summary>Click Here to View Figures</summary>
+<p>
+
 ![Figure 1](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig1.png)
 ![Figure 2](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig2.png)
 ![Figure 3](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig3.png)
@@ -78,6 +81,10 @@ Before performing any machine learning on my dataset, I wanted to understand the
 ![Figure 21](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig21.png)
 ![Figure 22](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig22.png)
 ![Figure 23](https://github.com/torrwill/KNN-Genre-Classifier/blob/main/figures/fig23.png)
+
+</p>
+</details>
+
 
 ### Accuracy
 The accuracy rates of the KNN model, as explained by *Table 2*, can be described as pretty inaccurate when it comes to classifying genres that are similar such as **‘Hiphop’**, **’Rap’**, and **‘Underground Rap’** because the rates were almost always below *90%*.
