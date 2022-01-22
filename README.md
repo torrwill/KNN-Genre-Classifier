@@ -53,8 +53,6 @@ When selecting a K-Value, one must choose a K-Value that will be able to maintai
 Before performing any machine learning on my dataset, I wanted to understand the data by performing a genre analysis using seaborn.
 
 #### Data Distribution
-[Click here to view Figures]https://github.com/torrwill/KNN-Genre-Classifier/tree/main/figures)
-
 <details><summary>Click Here to View Figures</summary>
 <p>
 
